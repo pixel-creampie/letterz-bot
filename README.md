@@ -4,6 +4,10 @@ Letterz is a super shiny discord bot which allows you to send and receive letter
 
 ## How to install
 Click on the below link to install the bot.
+https://discord.com/oauth2/authorize?client_id=1514939800711331910
+
+## Join Support Server for the bot
+https://discord.gg/aSYktGE3PQ
 
 ## Features
 * Send Private Letters to Users inside the server.
