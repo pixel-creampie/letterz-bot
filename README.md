@@ -2,6 +2,9 @@
 # Letterz Discord Bot
 Letterz is a super shiny discord bot which allows you to send and receive letters inside servers.The letters can be sent in anonymous format depending on the choice of the sender.
 
+## How to install
+Click on the below link to install the bot.
+
 ## Features
 * Send Private Letters to Users inside the server.
 * Moderators can ban and unban users to use this bot from particular server.
